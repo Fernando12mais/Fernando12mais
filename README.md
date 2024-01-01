@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Any company that needs a great developer!**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-self-rho.vercel.app/](https://my-portfolio-self-rho.vercel.app/)
-
 - 💬 Ask me about **React,Typescript,NextJs,Git**
 
 - 📫 How to reach me **fernandogabriel12mais@gmail.com**
