@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernando12mais" alt="fernando12mais" /></a> </p>
 
-- 🔭 I’m currently working on [FreteAqui](https://freteaqui.vercel.app/)
 
 - 🌱 I’m currently learning **Svelte,SvelteKit**
 
